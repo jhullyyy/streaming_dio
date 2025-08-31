@@ -36,7 +36,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('img/blade_runner.jpeg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/blade_runner.jpeg');
     height:500px;
     background-size:cover;
     display: flex;
